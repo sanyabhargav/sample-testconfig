@@ -82,4 +82,4 @@ app:
   #services:
   #- crn: "crn:v1:bluemix:public:dashdb-for-transactions:us-east:a/123:456::"
   #- name: "my Db2 instance"
-  #  type: dashdb-for-transactions 
+  #  type: dashdb-for-transactions  
